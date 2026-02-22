@@ -1,0 +1,20 @@
+# Ignorar carpetas que no quiero mostrar todavía
+facu2025/
+otros/
+SQL/
+
+# Ignorar archivos del entorno virtual y temporales de Python
+.venv/
+bin/
+include/
+lib/
+share/
+pyvenv.cfg
+__pycache__/
+.DS_Store
+
+# Ignorar TODA la carpeta de datos crudos (están en Drive)
+Tp1_LDD/enunciado_tablas/
+
+# Ignorar cualquier CSV que se genere localmente
+*.csv
