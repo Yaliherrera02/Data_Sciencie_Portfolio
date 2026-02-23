@@ -1,4 +1,4 @@
-Análisis de la Liga Belga: Rendimiento y Dinámica Competitiva (2009-2013)
+# Análisis de la Liga Belga: Rendimiento y Dinámica Competitiva (2009-2013)
 📋 Sobre este proyecto
 El objetivo de este proyecto es analizar el desempeño y la dinámica competitiva de la liga de fútbol de Bélgica a lo largo de cuatro temporadas consecutivas (2009/2010 - 2012/2013). A través de este estudio, busqué identificar patrones de éxito, evaluar el impacto de la localía y explorar la relación entre los atributos técnicos de los planteles y su capacidad goleadora.
 
